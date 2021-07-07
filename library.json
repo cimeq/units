@@ -1,0 +1,29 @@
+{
+  "name": "units",
+  "version": "v3.0.0.alpha-2",
+  "description": "This library offert units types",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://git.cimeq.qc.ca/GitHub/units.git"
+  },
+  "build" : {
+    "includeDir" : "include",
+    "export" : {
+      "exclude" : [
+        "unitTests",
+        ".github",
+        ".git",
+        "3rdParty"
+      ]
+    }
+  },
+  "authors":
+  [
+    {
+      "name": "CIMEQ"
+    }
+  ],
+  "frameworks": "*",
+  "platforms": "*"
+}
