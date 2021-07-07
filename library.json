@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://git.cimeq.qc.ca/GitHub/units.git"
+    "url": "https://github.com/cimeq/units.git"
     
   },
   "build" : {
