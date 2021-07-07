@@ -1,11 +1,12 @@
 {
   "name": "units",
-  "version": "v3.0.0.alpha-2",
+  "version": "3.0.0",
   "description": "This library offert units types",
   "repository":
   {
     "type": "git",
     "url": "https://git.cimeq.qc.ca/GitHub/units.git"
+    
   },
   "build" : {
     "includeDir" : "include"
