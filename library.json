@@ -8,15 +8,15 @@
     "url": "https://git.cimeq.qc.ca/GitHub/units.git"
   },
   "build" : {
-    "includeDir" : "include",
-    "export" : {
+    "includeDir" : "include"
+  },
+  "export" : {
       "exclude" : [
         "unitTests",
         ".github",
         ".git",
         "3rdParty"
       ]
-    }
   },
   "authors":
   [
