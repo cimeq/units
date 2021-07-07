@@ -13,7 +13,7 @@
   },
   "export" : {
       "exclude" : [
-        "unitTests/*",
+        "unitTests",
         ".github",
         ".git",
         "3rdParty"
