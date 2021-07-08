@@ -9,7 +9,8 @@
     
   },
   "build" : {
-    "includeDir" : "include"
+    "includeDir" : "include",
+    "srcDir" : "include"
   },
   "export" : {
       "exclude" : [
